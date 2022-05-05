@@ -2,17 +2,18 @@
 hiscovid is a PyPI tool that calculates time transition scores for individual policies against COVID-19.
 
 The goal of hiscovid is for policymakers to understand the fatal mistakes by their decisions.
+Policymakers must learn their mistakes for possible corrections in the future.
 
 The time transition score is calculated by dividing the number of deaths in the time series 
 due to COVID-19 by the population in millions.
 
+Scores monotonically increase so that policymakers can only suppress them, but cannot improve them.
+Mistakes by policymakers cannot be corrected and are fatal forever.
+
 In other words, the score is equivalent to the accumulation of mistakes made by policymakers.
 
 The perfect policy outcome means there are no covid-19 deaths. There is no perfect policy in the world, but
-mistakes by policymakers can be corrected. 
-
-The purpose of hiscovid is a new tool for policymakers to learn their mistakes 
-for possible corrections in the future.
+mistakes by policymakers can be corrected.
 
 
 hiscovid scrapes the latest data from the following site over the Internet:
