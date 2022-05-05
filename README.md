@@ -7,5 +7,5 @@ $ pip install hiscovid
 # How to run hiscovid
 $ hiscovid Japan 'South Korea'
 
-<img src='result.png' height=480 width=640>
+<img src='https://github.com/ytakefuji/hiscovid/raw/main/result.png' height=480 width=640>
 
