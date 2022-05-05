@@ -8,6 +8,13 @@ due to COVID-19 by the population in millions.
 
 In other words, the score is equivalent to the accumulation of mistakes made by policymakers.
 
+The perfect policy outcome means there are no covid-19 deaths. There is no perfect policy in the world, but
+mistakes by policymakers can be corrected. 
+
+The purpose of hiscovid is a new tool for policymakers to learn their mistakes 
+for possible corrections in the future.
+
+
 hiscovid scrapes the latest data from the following site over the Internet:
 
 https://covid.ourworldindata.org/data/owid-covid-data.csv
