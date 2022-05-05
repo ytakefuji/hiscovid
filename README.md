@@ -9,3 +9,10 @@ $ hiscovid Japan 'South Korea'
 
 <img src='https://github.com/ytakefuji/hiscovid/raw/main/result.png' height=480 width=640>
 
+$ hiscovid Taiwan 'New Zealand'
+
+<img src='https://github.com/ytakefuji/hiscovid/raw/main/twnz.png' height=480 width=640>
+
+$ hiscovid Taiwan 'United States' 'United Kingdom'
+
+<img src='https://github.com/ytakefuji/hiscovid/raw/main/twusuk.png' height=480 width=640>
