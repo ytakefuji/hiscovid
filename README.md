@@ -1,7 +1,7 @@
 # hiscovid
 hiscovid is a PyPI tool that calculates time transition scores for individual policies against COVID-19.
 
-The goal of hiscovid is for policymakers to understand the fatal mistakes by their decisions.
+The goal of hiscovid is for policymakers to understand fatal mistakes by their decisions.
 Policymakers must learn their mistakes for possible corrections in the future.
 
 The time transition score is calculated by dividing the number of deaths in the time series 
