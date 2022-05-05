@@ -10,6 +10,8 @@ due to COVID-19 by the population in millions.
 Scores monotonically increase so that policymakers can only suppress them, but cannot improve them.
 Mistakes by policymakers cannot be corrected and are fatal forever.
 
+The lower the score, the better the policy.
+
 In other words, the score is equivalent to the accumulation of mistakes made by policymakers.
 
 The perfect policy outcome means there are no covid-19 deaths. There is no perfect policy in the world, but
