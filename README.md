@@ -6,6 +6,8 @@ The goal of hiscovid is for policymakers to understand the fatal mistakes by the
 The time transition score is calculated by dividing the number of deaths in the time series 
 due to COVID-19 by the population in millions.
 
+In other words, score is equivalent to accumulated mistakes by policymakes.
+
 hiscovid scrapes the latest data from the following site over the Internet:
 
 https://covid.ourworldindata.org/data/owid-covid-data.csv
