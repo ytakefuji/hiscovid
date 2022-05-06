@@ -32,7 +32,7 @@ $ hiscovid Japan 'South Korea'
 
 <img src='https://github.com/ytakefuji/hiscovid/raw/main/result.png' height=480 width=640>
 
-In this graph, 
+In the graph of South Korea, there are two points such as the beginning of Nov. 2021 and that of March 2022.
 
 $ hiscovid Taiwan 'New Zealand'
 
