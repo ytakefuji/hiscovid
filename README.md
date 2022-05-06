@@ -52,7 +52,7 @@ $ hiscovid Taiwan 'New Zealand'
 
 There is one point in the Taiwan graph that changes abruptly around mid-May 2021.
 
-There is one point in the New Zealand graph that changes abruptly around the early March 2022.
+There is one point in the New Zealand graph that changes abruptly around the mid-February 2022.
 
 $ hiscovid Taiwan 'United States' 'United Kingdom'
 
