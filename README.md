@@ -1,4 +1,6 @@
 # hiscovid
+[![Open in Code Ocean](https://codeocean.com/codeocean-assets/badge/open-in-code-ocean.svg)](tree)
+
 hiscovid is a PyPI tool that calculates time transition scores for individual policies against COVID-19.
 
 The goal of hiscovid is for policymakers to understand fatal mistakes by their decisions.
