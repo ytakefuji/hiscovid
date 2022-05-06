@@ -44,7 +44,7 @@ $ hiscovid Taiwan 'New Zealand'
 
 There is one point in the Taiwan graph that changes abruptly around mid-May 2021.
 
-There is one point in the New Zealand graph that changes abruptly around the beggining of March 2022.
+There is one point in the New Zealand graph that changes abruptly around the early March 2022.
 
 $ hiscovid Taiwan 'United States' 'United Kingdom'
 
@@ -53,5 +53,5 @@ $ hiscovid Taiwan 'United States' 'United Kingdom'
 In the US graph, it is constantly bad, but a single point that changes abruptly around the mid-July 2021.
 
 In the UK graph, there are two points where the slope of the scoreline changed abruptly,
-including the beggning of April 2020 and mid-November 2021.
+including the early April 2020 and early November 2021.
 
