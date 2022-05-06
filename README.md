@@ -32,6 +32,10 @@ $ hiscovid Japan 'South Korea'
 
 <img src='https://github.com/ytakefuji/hiscovid/raw/main/result.png' height=480 width=640>
 
+The vertical axis shows the overall result scores for policy, individual behavior, vaccination, 
+and new COVID-19 variants. 
+Score is the number of deaths due to COVID-19 per population in millions.
+
 In the graph of South Korea, there are two points where the slope of the scoreline changed abruptly,
 including mid-November 2021 and mid-February 2022.
 
