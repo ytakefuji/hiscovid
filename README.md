@@ -49,3 +49,7 @@ There is one point in the New Zealand graph that changes abruptly around the beg
 $ hiscovid Taiwan 'United States' 'United Kingdom'
 
 <img src='https://github.com/ytakefuji/hiscovid/raw/main/twusuk.png' height=480 width=640>
+
+In the US graph, it is constantly bad, but a single point that changes abruptly around the mid-July 2021.
+
+
