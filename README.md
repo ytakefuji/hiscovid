@@ -52,4 +52,6 @@ $ hiscovid Taiwan 'United States' 'United Kingdom'
 
 In the US graph, it is constantly bad, but a single point that changes abruptly around the mid-July 2021.
 
+In the UK graph, there are two points where the slope of the scoreline changed abruptly,
+including the beggning of 2021 and mid-July 2021.
 
