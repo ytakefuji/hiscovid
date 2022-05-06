@@ -33,7 +33,9 @@ $ hiscovid Japan 'South Korea'
 <img src='https://github.com/ytakefuji/hiscovid/raw/main/result.png' height=480 width=640>
 
 In the graph of South Korea, there are two points where the slope of the scoreline changed abruptly,
-including early November 2021 and mid-February 2022.
+including mid-November 2021 and mid-February 2022.
+
+In the graph of Japan, there is a single abruptly changed point around mid-January 2022.
 
 
 $ hiscovid Taiwan 'New Zealand'
