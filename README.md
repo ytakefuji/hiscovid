@@ -42,6 +42,8 @@ $ hiscovid Taiwan 'New Zealand'
 
 <img src='https://github.com/ytakefuji/hiscovid/raw/main/twnz.png' height=480 width=640>
 
+There is one point in the Taiwan graph that changes abruptly around mid-May 2021.
+
 $ hiscovid Taiwan 'United States' 'United Kingdom'
 
 <img src='https://github.com/ytakefuji/hiscovid/raw/main/twusuk.png' height=480 width=640>
