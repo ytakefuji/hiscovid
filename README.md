@@ -15,12 +15,14 @@ The lower the score, the better the policy.
 In other words, the score is equivalent to the accumulation of mistakes made by policymakers.
 
 The perfect policy outcome means there are no covid-19 deaths. There is no perfect policy in the world, but
-mistakes by policymakers can be corrected.
+mistakes by policymakers can be corrected for future better decisions.
 
 
 hiscovid scrapes the latest data from the following site over the Internet:
 
 https://covid.ourworldindata.org/data/owid-covid-data.csv
+
+Mistakes can be observed in the calculated graph.
 
 # How to install hiscovid
 $ pip install hiscovid
@@ -29,6 +31,8 @@ $ pip install hiscovid
 $ hiscovid Japan 'South Korea'
 
 <img src='https://github.com/ytakefuji/hiscovid/raw/main/result.png' height=480 width=640>
+
+In this graph, 
 
 $ hiscovid Taiwan 'New Zealand'
 
