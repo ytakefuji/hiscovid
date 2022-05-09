@@ -32,6 +32,8 @@ Mistakes can be observed in the calculated graph.
 $ pip install hiscovid
 
 # How to run hiscovid
+$ hiscovid <country name(s)>
+
 $ hiscovid Japan 'South Korea'
 
 <img src='https://github.com/ytakefuji/hiscovid/raw/main/result.png' height=480 width=640>
